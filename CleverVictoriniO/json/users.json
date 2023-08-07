@@ -1,0 +1,351 @@
+[{
+  "_id": {
+    "$oid": "6498840c85b7b8788e4d579e"
+  },
+  "username": "Marcos_Volkman-Bernier",
+  "password": "aMhGzDBuBkhyduR",
+  "image": "https://avatars.githubusercontent.com/u/7862049",
+  "allTrue": 300,
+  "maxSeries": 75,
+  "nowSeries": 1,
+  "TrueAnswer": [
+    {
+      "$oid": "64972ca218dfa5942cd901a5"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-25T18:14:36.029Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-25T18:14:36.029Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6498840c85b7b8788e4d57a2"
+  },
+  "username": "Magdalen_Dare76",
+  "password": "XyBqUbzaBFHF0kw",
+  "image": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/417.jpg",
+  "allTrue": 373,
+  "maxSeries": 78,
+  "nowSeries": 5,
+  "TrueAnswer": [
+    {
+      "$oid": "64972ca218dfa5942cd901a5"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-25T18:14:36.312Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-25T18:14:36.312Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6498840c85b7b8788e4d57a4"
+  },
+  "username": "Vergie.Kirlin",
+  "password": "48XUuAQ0GgjXqLm",
+  "image": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/509.jpg",
+  "allTrue": 476,
+  "maxSeries": 96,
+  "nowSeries": 8,
+  "TrueAnswer": [
+    {
+      "$oid": "64972ca218dfa5942cd901a5"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-25T18:14:36.315Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-25T18:14:36.315Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6498840c85b7b8788e4d57a6"
+  },
+  "username": "Marlee.Schuster",
+  "password": "0oYSFwCN8oTDscV",
+  "image": "https://avatars.githubusercontent.com/u/84295441",
+  "allTrue": 97,
+  "maxSeries": 82,
+  "nowSeries": 0,
+  "TrueAnswer": [
+    {
+      "$oid": "64972ca218dfa5942cd901a5"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-25T18:14:36.319Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-25T18:14:36.319Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6498840c85b7b8788e4d57a8"
+  },
+  "username": "Wilbert_Bashirian23",
+  "password": "v4wlbWLrqO_grRv",
+  "image": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/232.jpg",
+  "allTrue": 589,
+  "maxSeries": 12,
+  "nowSeries": 3,
+  "TrueAnswer": [
+    {
+      "$oid": "64972ca218dfa5942cd901a5"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-25T18:14:36.323Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-25T18:14:36.323Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6498840c85b7b8788e4d57aa"
+  },
+  "username": "Xzavier61",
+  "password": "wyJPaNKL0Tk2g2I",
+  "image": "https://avatars.githubusercontent.com/u/40608114",
+  "allTrue": 906,
+  "maxSeries": 88,
+  "nowSeries": 1,
+  "TrueAnswer": [
+    {
+      "$oid": "64972ca218dfa5942cd901a5"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-25T18:14:36.329Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-25T18:14:36.329Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6498840c85b7b8788e4d57ac"
+  },
+  "username": "William93",
+  "password": "J5zsGO1t3f2AULT",
+  "image": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/893.jpg",
+  "allTrue": 801,
+  "maxSeries": 76,
+  "nowSeries": 6,
+  "TrueAnswer": [
+    {
+      "$oid": "64972ca218dfa5942cd901a5"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-25T18:14:36.333Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-25T18:14:36.333Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649884bd85b7b8788e4d57b2"
+  },
+  "username": "Пьер Безухов",
+  "password": "123456",
+  "image": "https://avatars.githubusercontent.com/u/77212338",
+  "allTrue": 4,
+  "maxSeries": 2,
+  "nowSeries": 0,
+  "TrueAnswer": [
+    {
+      "$oid": "64970d715a659122ee1fb5af"
+    },
+    {
+      "$oid": "64970d8dd4a4d3fd456f7f3b"
+    },
+    {
+      "$oid": "64970cc2f8d73ea1c8430324"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-25T18:17:33.903Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-25T19:09:38.072Z"
+  },
+  "__v": 4
+},
+{
+  "_id": {
+    "$oid": "6498885cbc701f4884f145f2"
+  },
+  "username": "Jared_Nader",
+  "password": "pGhX1PoBn09xTqd",
+  "image": "https://avatars.githubusercontent.com/u/49752876",
+  "allTrue": 95,
+  "maxSeries": 42,
+  "nowSeries": 9,
+  "TrueAnswer": [
+    {
+      "$oid": "64972ca218dfa5942cd901a5"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-25T18:33:00.508Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-25T18:33:00.508Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6498885cbc701f4884f145f8"
+  },
+  "username": "Cathy33",
+  "password": "EnaPZwcFA8uH1Vb",
+  "image": "https://avatars.githubusercontent.com/u/10034655",
+  "allTrue": 352,
+  "maxSeries": 29,
+  "nowSeries": 1,
+  "TrueAnswer": [
+    {
+      "$oid": "64972ca218dfa5942cd901a5"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-25T18:33:00.576Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-25T18:33:00.576Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6498885cbc701f4884f145fb"
+  },
+  "username": "Maggie82",
+  "password": "TPhGkqeG2aSK2wv",
+  "image": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/996.jpg",
+  "allTrue": 727,
+  "maxSeries": 91,
+  "nowSeries": 9,
+  "TrueAnswer": [
+    {
+      "$oid": "64972ca218dfa5942cd901a5"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-25T18:33:00.588Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-25T18:33:00.588Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6498885cbc701f4884f145fd"
+  },
+  "username": "Magnolia.Nolan17",
+  "password": "WybGNEXj9eGEOXu",
+  "image": "https://avatars.githubusercontent.com/u/55964334",
+  "allTrue": 276,
+  "maxSeries": 28,
+  "nowSeries": 3,
+  "TrueAnswer": [
+    {
+      "$oid": "64972ca218dfa5942cd901a5"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-25T18:33:00.592Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-25T18:33:00.592Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6498885cbc701f4884f145ff"
+  },
+  "username": "Jacquelyn.Adams6",
+  "password": "kcSfQmPWYZTOtEB",
+  "image": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/136.jpg",
+  "allTrue": 561,
+  "maxSeries": 56,
+  "nowSeries": 0,
+  "TrueAnswer": [
+    {
+      "$oid": "64972ca218dfa5942cd901a5"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-25T18:33:00.599Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-25T18:33:00.599Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6498885cbc701f4884f14601"
+  },
+  "username": "Alverta.Johnston89",
+  "password": "NYQiXV0DtfBfd5F",
+  "image": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/824.jpg",
+  "allTrue": 757,
+  "maxSeries": 62,
+  "nowSeries": 7,
+  "TrueAnswer": [
+    {
+      "$oid": "64972ca218dfa5942cd901a5"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-25T18:33:00.603Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-25T18:33:00.603Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6498885cbc701f4884f14603"
+  },
+  "username": "Vivienne.Kunde-Lynch",
+  "password": "1tmSMlrKZlVGqAx",
+  "image": "https://avatars.githubusercontent.com/u/55894467",
+  "allTrue": 717,
+  "maxSeries": 78,
+  "nowSeries": 4,
+  "TrueAnswer": [
+    {
+      "$oid": "64972ca218dfa5942cd901a5"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-25T18:33:00.606Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-25T18:33:00.606Z"
+  },
+  "__v": 0
+}]
