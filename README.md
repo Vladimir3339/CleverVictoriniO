@@ -1,4 +1,8 @@
-# 1.first-project
+#Сайт-викторина CleverVictorinio
+Создан на стеке mevn
+после первого запуска сайта в базе данных mongodb вставить в коллекции одноименные файла json 
+
+## 1.first-project
 
 This template should help get you started developing with Vue 3 in Vite.
 
