@@ -1,5 +1,6 @@
 # Сайт-викторина CleverVictorinio
-Создан на стеке mevn
+Создан на стеке mevn (mongodb, express, vue.js, node.js), 
+
 после первого запуска сайта в базе данных mongodb вставить в коллекции одноименные файла json 
 
 ## 1.first-project
